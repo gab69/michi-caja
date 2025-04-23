@@ -55,6 +55,16 @@ export default function Board({ player1, player2, onBackToMenu }) {
           Menú Principal
         </button>
       </div>
+
+      <h1 className="mb-4">
+  <img
+    src="logo-caja.webp"
+    alt="Logo Caja Huancayo"
+    className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg mx-auto h-auto"
+  />
+</h1>
+
+
     </div>
   );
 }
